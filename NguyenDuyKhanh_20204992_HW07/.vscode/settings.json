@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "linklist_data_stream.h": "c",
+        "session_manager.h": "c",
+        "handle_client.h": "c",
+        "unistd.h": "c",
+        "menu.h": "c",
+        "client_handle_thread.h": "c",
+        "limit_client.h": "c",
+        "string.h": "c",
+        "client_handle.h": "c"
+    }
+}
