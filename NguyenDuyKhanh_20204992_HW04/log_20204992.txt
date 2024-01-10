@@ -1,0 +1,6 @@
+[09/12/2023 14:52:25]$127.0.0.1:28301$+OK Welcome to file server
+[09/12/2023 14:53:22]$127.0.0.1:28301$+OK Please send file
+[09/12/2023 14:53:22]$127.0.0.1:28301$$+OK Successful upload
+[09/12/2023 14:53:27]$127.0.0.1:53992$+OK Welcome to file server
+[09/12/2023 14:53:40]$127.0.0.1:53992$+OK Please send file
+[09/12/2023 14:53:40]$127.0.0.1:53992$$+OK Successful upload
